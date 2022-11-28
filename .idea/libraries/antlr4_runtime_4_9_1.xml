@@ -1,7 +1,6 @@
 <component name="libraryTable">
   <library name="antlr4-runtime-4.9.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/mariadb-java-client-2.7.3.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.28.jar!/" />
     </CLASSES>
     <JAVADOC />
